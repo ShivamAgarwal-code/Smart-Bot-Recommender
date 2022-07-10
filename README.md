@@ -22,5 +22,5 @@ Here communities will be formed on the basis of the information obtained from us
 <img src="https://github.com/ritika-07/Product-Recommendation-Engine/blob/master/about.png" width=600>
 
 ## Important links
-- Gephi Visualisation: https://ritika-07.github.io/Product-Recommendation-Engine/network/#
+- Gephi Visualisation: https://ShivamAgarwal-code.github.io/Smart-Bot-Recommender/network/#
 - Dataset: https://archive.ics.uci.edu/ml/datasets/Online+Retail#
